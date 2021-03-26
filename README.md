@@ -18,6 +18,9 @@ THEN I find a concise, descriptive title
 
 I fixed any broken code and cleaned it up by removing unnecessary tags and classes, among other things. as many accessability options were added as possible. More responsive code was added for different devices as well.
 
+The finished page:
+https://justicegtr.github.io/HW1/
+
 ## Visuals
 Original:
 ![alt text](https://github.com/JusticeGTR/HW1/blob/main/assets/images/01-html-css-git-homework-demo.png?raw=true)
