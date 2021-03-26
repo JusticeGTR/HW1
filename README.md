@@ -20,7 +20,7 @@ I fixed any broken code and cleaned it up by removing unnecessary tags and class
 
 ## Visuals
 Original:
-![alt text](hhttps://github.com/JusticeGTR/HW1/blob/main/assets/images/01-html-css-git-homework-demo.png?raw=true)
+![alt text](https://github.com/JusticeGTR/HW1/blob/main/assets/images/01-html-css-git-homework-demo.pngraw=true)
 
 After my updates:
 ![alt text](https://github.com/JusticeGTR/HW1/blob/main/assets/images/Screenshot%20(50).png?raw=true)
