@@ -160,3 +160,15 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+@media screen and (max-width: 1010px) {
+header, header ul li {
+    flex-direction: column;
+    display:flex;
+}
+.online-reputation-management h2 {
+margin-top:-30px;
+}
+.online-reputation-management p {
+    margin-top:-10px;
+    }

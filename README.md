@@ -1,11 +1,31 @@
-# HW1
-Things that were changed:
-- The title in the head updated to be more descriptive.
-- added id to search-engine-optimization so that the snap to place link works
-- took the div out of the header tag and updated the css to match. makes for cleaner code
-- removed the image in class "hero" from the css and put it into the html
-- added alt attributes to all images
-- changed div to section for classes "benefits" and "content" to give more detail to the structure and updated css to match
-- changed div class="footer" to footer for more structure detail and updated css to match
-- added object-fit to hero image to deal with larger screens
-- removed each div and class of the 3 benefits sections, added breaks to make up the space and condensed each set of css into the respective benefits tags instead
+# Homework 1
+This is our first homework assignment in nu-chi-fsf-ft-03-2021-u-c! 
+
+In this excercise, we were tasked with cleaning up the code without editing the original web page. I fixed any broken code and cleaned it up by removing unnecessary tags and classes, among other things. as many accessability options were added as possible. More responsive code was added for different devices as well.
+
+## Visuals
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+## Usage
+
+Normal working webpage.
+Navigation bar links to page sections.
+Inspect to test responsive sizing.
+
+## Contributing
+
+Feel free to use however you like. Contributing a good grade is welcome.
+
+
+
+
+
+
+
+
+
+
+
+
+
